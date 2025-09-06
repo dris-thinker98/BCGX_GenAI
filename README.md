@@ -8,7 +8,9 @@ Forage certificate: https://forage-uploads-prod.s3.amazonaws.com/completion-cert
 
 
 Description:
+
 I just completed BCG's GenAI on Forage. 
+
 In the simulation:
 
  * Completed a job simulation involving AI-powered financial chatbot development
